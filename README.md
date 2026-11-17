@@ -23,4 +23,4 @@ I build trading systems, the research tools behind them, and back-end software.
 
 ### Interests
 
-Market microstructure and market making, DeFi, performance in C, and woodworking: I am building an Empire-style four-poster bed with a heritage architect ([more on the portfolio](https://lyderic-singer.github.io/Portfolio/#craft)).
+Market microstructure and market making, DeFi, performance in C, and woodworking ([more on the portfolio](https://lyderic-singer.github.io/Portfolio)).
