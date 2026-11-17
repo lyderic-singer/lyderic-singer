@@ -1,16 +1,26 @@
-## Hi there 👋
+## Lydéric Singer
 
-<!--
-**lyderic-singer/lyderic-singer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at **Télécom Nancy** (France) and software engineering apprentice at **LibScience**.
+I build trading systems, the research tools behind them, and back-end software.
 
-Here are some ideas to get you started:
+[Portfolio](https://lyderic-singer.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/lyderic-singer/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Trador**](https://github.com/lyderic-singer/Trador) | Asynchronous trading framework: one interface over several perpetual exchanges and four signing schemes. Running in production for 14 months, $120M+ volume executed. This repo is a showcase of the refactor; production strategies stay private. | Python · asyncio · websockets · pytest |
+| [**Quant**](https://github.com/lyderic-singer/Quant) | L2 order-book backtester for maker strategies: memory-mapped binary format, no-look-ahead replay, fill models, latency, six strategies including Avellaneda-Stoikov. | C · OpenMP · Python |
+| [**Trench**](https://github.com/lyderic-singer/Trench) | Trustless OTC pre-market on Hyperliquid's EVM: escrow contract, fault-tolerant on-chain event indexer, API and web app. Paused before mainnet pending an audit. | TypeScript · Express · PostgreSQL · Angular · Solidity |
+| [**Early Civilization**](https://github.com/lyderic-singer/Civilization) | Turn-based strategy game, school project for two: seeded map generation, engine shared by a terminal and an SDL2 interface. | C · SDL2 |
+
+### Tools I use
+
+- **Languages:** Python · C · TypeScript · SQL · Solidity · OCaml
+- **Back end:** asyncio · FastAPI · SQLAlchemy · Node / Express · PostgreSQL · Redis
+- **Front end:** Angular · React
+- **Ops:** Linux · Docker · GitHub Actions · uv · pytest
+
+### Interests
+
+Market microstructure and market making, DeFi, performance in C, and woodworking: I am building an Empire-style four-poster bed with a heritage architect ([more on the portfolio](https://lyderic-singer.github.io/Portfolio/#craft)).
